@@ -1,0 +1,9 @@
+https://www.datacamp.com/tutorial/tutorial-how-to-execute-sql-queries-in-r-and-python?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720830&utm_adgroupid=143216588377&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=657040116645&utm_targetid=dsa-1947282172981&utm_loc_interest_ms=&utm_loc_physical_ms=9023533&utm_content=dsa~page~community-tuto&utm_campaign=230119_1-sea~dsa~tutorials_2-b2c_3-us_4-prc_5-na_6-na_7-le_8-pdsh-go_9-na_10-na_11-na-mayftyc23&gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutmgPdKWOKzoSn27Be4mE1WWdoKLYm0Ue_PtdIJlC7O3UaGWAQ3zJWQaAuLcEALw_wcB
+
+ChatGPT
+
+https://imgur.com/a/Grc8s2W
+
+https://imgur.com/a/gIaI6am
+
+Recieved help from TA to set up python in docker.
